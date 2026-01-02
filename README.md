@@ -1,5 +1,8 @@
 # Data Warehouse and Analytics Project
 
+Thanks to Data with Baara for the wonderful course, which helped me understand the foundational and advanced concepts of Data Warehousing in SQL.
+This project implements a layered architecture using the Medallion Architecture: Bronze → Silver → Gold, enabling efficient, clean, and business-ready data.
+
 Welcome to the Data Warehouse and Analytics Project repository !
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portofolio project highlights industry best practices in data engineering and analytics.
 
